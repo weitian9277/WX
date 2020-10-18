@@ -1,0 +1,6 @@
+com\qf\controller\WXLoginController.class
+com\qf\util\HttpUtil.class
+com\qf\util\AuthUtil.class
+com\qf\controller\WeChatActionController.class
+com\qf\util\WXBizDataCrypt.class
+com\qf\util\CheckoutUtil.class

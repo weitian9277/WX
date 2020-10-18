@@ -1,0 +1,15 @@
+2020-10-13 15:23:28,000 [com.LogTest]-[WARN] 警告1
+2020-10-13 15:23:28,000 [com.LogTest]-[ERROR] 错误1
+2020-10-13 15:23:28,000 [com.LogTest]-[FATAL] 最高级别的1
+2020-10-13 15:24:49,806 [com.LogTest]-[TRACE] 级别最低的  trace1
+2020-10-13 15:24:49,806 [com.LogTest]-[DEBUG] 级别稍微高一点的  debug1
+2020-10-13 15:24:49,806 [com.LogTest]-[INFO] Info1
+2020-10-13 15:24:49,807 [com.LogTest]-[WARN] 警告1
+2020-10-13 15:24:49,807 [com.LogTest]-[ERROR] 错误1
+2020-10-13 15:24:49,807 [com.LogTest]-[FATAL] 最高级别的1
+2020-10-13 15:28:34,558 [com.LogTest]-[TRACE] 级别最低的  trace1
+2020-10-13 15:28:34,559 [com.LogTest]-[DEBUG] 级别稍微高一点的  debug1
+2020-10-13 15:28:34,559 [com.LogTest]-[INFO] Info1
+2020-10-13 15:28:34,560 [com.LogTest]-[WARN] 警告1
+2020-10-13 15:28:34,560 [com.LogTest]-[ERROR] 错误1
+2020-10-13 15:28:34,560 [com.LogTest]-[FATAL] 最高级别的1
